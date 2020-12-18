@@ -907,6 +907,7 @@ body {
 	@media (max-width: 600px) {
 		padding: 30px 0;
 		&__row {
+			padding: 40px 0;
 			flex-direction: column;
 			text-align: center;
 		}
