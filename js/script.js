@@ -42,7 +42,7 @@ document.addEventListener('DOMContentLoaded', function () {
 		if (error === 0) {
 
 		} else {
-			alert('Заполни поле, Еблан');
+			alert('Заполните поле');
 		}
 	}
 
